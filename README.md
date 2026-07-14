@@ -80,15 +80,5 @@ Atualmente estou aprofundando meus conhecimentos em Engenharia de Dados, arquite
 
 <div align="center">
 
-### 🚀 "Turning data into decisions."
-
 </div>
 
-<!--
-Depois configure o GitHub Action Snake Animation e adicione:
-
-<p align="center">
-<img src="https://github.com/Rafilde/Rafilde/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
--->
