@@ -2,8 +2,6 @@
 
 # 👋 Olá, eu sou Rafael Silva
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Data+Analytics;Data+Engineering;Backend+Developer;Python+%7C+Java+%7C+TypeScript;Always+Learning+Something+New+🚀" />
-
 ### 💡 Transformando dados em soluções inteligentes.
 
 </div>
@@ -57,38 +55,6 @@ Atualmente estou aprofundando meus conhecimentos em Engenharia de Dados, arquite
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,vscode" />
 </p>
-
----
-
-# 📈 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafilde&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafilde&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rafilde&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rafilde&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
-
-</div>
 
 ---
 
