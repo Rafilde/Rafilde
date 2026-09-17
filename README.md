@@ -23,7 +23,7 @@ Atualmente estou aprofundando meus conhecimentos em Engenharia de Dados, arquite
 ## 💻 Linguagens
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript" />
+<img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
 ## ⚙️ Backend
