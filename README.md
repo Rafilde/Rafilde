@@ -29,7 +29,7 @@ Atualmente estou aprofundando meus conhecimentos em Engenharia de Dados, arquite
 ## ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs" />
+<img src="https://skillicons.dev/icons?i=django,flask" />
 </p>
 
 ## 🗄️ Banco de Dados
